@@ -105,3 +105,6 @@ dist
 
 # Mac App Store build
 .DS_Store
+
+# Gatsby build
+public/
